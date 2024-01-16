@@ -1,0 +1,13 @@
+{
+  "name": "Bitmain I2C protocol decoder",
+  "apiVersion": "1.0.0",
+  "author": "GPTechinno",
+  "version": "0.1.0",
+  "description": "Bitmain I2C protocol decoder",
+  "extensions": {
+    "Bitmain I2C protocol decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
